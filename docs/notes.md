@@ -13,3 +13,7 @@
 * Register for default browser ala wslview
 * wslgit?
 * Set up wsl-open
+
+## Links
+
+* https://github.com/sirredbeard/Awesome-WSL
