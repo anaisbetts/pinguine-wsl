@@ -17,3 +17,6 @@
 ## Links
 
 * https://github.com/sirredbeard/Awesome-WSL
+* https://github.com/WhitewaterFoundry/WSLFedoraRemix/tree/master/linux_files - config mods for WSL
+* https://github.com/WhitewaterFoundry/WLinux/blob/master/linux_files/setup - all kinds of stuffs
+* https://github.com/wslutilities/wslu - cool utilities but the naming and usability isn't ideal
